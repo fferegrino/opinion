@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Mis opiniones',
   tagline: 'Esto es en lo que creo, pero mis creencias están en constante evolución.',
-  url: ' https://fferegrino.github.io',
-  baseUrl: '/opinion',
+  url: 'https://fferegrino.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
